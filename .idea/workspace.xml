@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bbbcd8c-7e83-4bc6-8797-71205ecfbb93" name="Changes" comment="DU do lekce #8">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/engeto/calculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/engeto/calculator/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/calculator/CalculatorTest.class" beforeDir="false" />
-    </list>
+    <list default="true" id="8bbbcd8c-7e83-4bc6-8797-71205ecfbb93" name="Changes" comment="DU do lekce #08" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,10 +44,44 @@
       <option name="presentableId" value="Default" />
       <updated>1679737912433</updated>
     </task>
+    <task id="LOCAL-00001" summary="DU do lekce #8">
+      <created>1679755819396</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679755819396</updated>
+    </task>
+    <task id="LOCAL-00002" summary="DU do lekce #8">
+      <created>1679756024036</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679756024036</updated>
+    </task>
+    <task id="LOCAL-00003" summary="DU do lekce #08">
+      <created>1679756146348</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679756146348</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="DU do lekce #8" />
-    <option name="LAST_COMMIT_MESSAGE" value="DU do lekce #8" />
+    <MESSAGE value="DU do lekce #08" />
+    <option name="LAST_COMMIT_MESSAGE" value="DU do lekce #08" />
   </component>
 </project>
