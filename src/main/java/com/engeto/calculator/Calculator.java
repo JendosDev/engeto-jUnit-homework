@@ -31,12 +31,12 @@ public class Calculator {
         return Math.pow(number1, 2);
     }
 
-    public static double areaOfCircle(double radius) {
+    public static double areaOfCircle(double number1) {
         Scanner input = new Scanner(System.in);
 
-        radius = input.nextDouble();
+        number1 = input.nextDouble();
         input.close();
 
-        return Math.PI * radius * radius;
+        return Math.PI * number1 * number1;
     }
 }
